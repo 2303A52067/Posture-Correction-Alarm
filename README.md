@@ -1,4 +1,3 @@
-
 # Posture Correction Alarm using TensorFlow.js
 
 ## Overview
@@ -28,13 +27,6 @@ If incorrect posture is detected:
 * `video.js` – Logic & detection
 * `assets/` – Audio and fonts
 * `demo/` – Demo video
-
-## Demo
-
-(Add your video here or link)
-
-## Author
-Kadari Tharani
 
 ## Future Scope
 * Mobile app integration
